@@ -1,0 +1,11 @@
+img {
+    border-radius: 10px;
+    }
+
+.clock-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    font-weight: bold;
+}
