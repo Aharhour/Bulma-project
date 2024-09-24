@@ -1,34 +1,28 @@
-# Welcome to Xeno
+# Welcome to CoachX
 
 ## About
 
-Xeno is an online clothing store where you can find an extensive range of apparel for men, women, and children. Whether you're looking for trendy outfits, timeless classics, or comfortable basics, we've got it all. Our user-friendly interface makes shopping easy.
+CoachX is an intuitive platform designed for coaches to streamline their daily tasks and manage interactions with students efficiently. Coaches can use this tool to post updates, set daily goals, approve or reject assignments, and track progress—all from one easy-to-navigate dashboard.
 
 ## Technologies Used
 
-- **HTML**: Responsible for structuring the content of the website.
-- **CSS**: Used for styling and enhancing the visual appearance of the web pages.
-- **JavaScript**: Implemented for adding interactivity and dynamic features to the website.
+- **HTML**: Provides the structural foundation of the website.
+- **CSS (Bulma Framework)**: Bulma is used for sleek and responsive design, ensuring a clean, modern, and mobile-friendly layout.
+- **JavaScript**: Adds dynamic functionality and interactivity to the platform.
 
 ## Features
 
-- **User-Friendly Interface**: Our website is designed with the user in mind, offering intuitive navigation and a seamless browsing experience.
-- **Apparel Collections**: Easily explore our curated collections to find exactly what you're looking for.
-- **Secure Payment System**: Rest assured that your transactions are safe and secure with our encrypted payment system.
-- **Admin Panel**: Manage your products effortlessly through our admin panel. Add new products, update existing ones, or remove items as needed.
+- **Daily Goals Management**: Coaches can set, monitor, and track daily goals. Coach can mark goals as complete.
+- **Assignment Approval/Disapproval**: Coaches can review assignments and either approve or reject them directly from the coach’s dashboard.
+- **Responsive Design**: The page is fully responsive, ensuring an optimal user experience on all devices, whether you're on a desktop, tablet, or mobile.
 
-## How to Use
+## How to Access the Platform
 
-1. **Adding to Cart**: Once you've found the clothing items you want to purchase, simply click on the "Add to Cart" button.
-2. **Safe Shopping Experience**: Shop with confidence knowing that your transactions are protected by our advanced security measures.
-3. **Admin Panel**: As an admin, log in to the admin panel to manage your products. Add new products, update product information, or remove items from your inventory.
-
-## How to go to my website
-- Go to the search bar and type in: https://main--xxeno.netlify.app/
-- Your at my website now!
+1. Copy the reporsitory to you device.
+2. Open it in your local server
 
 ## Contributing
 
-If you encounter any issues while using my website or have suggestions for improvement, feel free to reach out to me. I'am always looking for ways to enhance the user experience and appreciate any feedback.
+If you encounter any issues while using CoachX or have suggestions for improvement, feel free to reach out. We are committed to providing the best experience for coaches and clients, and your feedback helps us make continuous improvements.
 
-Thank you for choosing Xeno for all your online shopping needs!!
+Thank you for choosing CoachX to manage your coaching needs!
